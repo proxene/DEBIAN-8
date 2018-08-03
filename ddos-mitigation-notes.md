@@ -21,7 +21,7 @@ net.ipv4.ip_forward = 0
 ![Iptables tables and chains Diagram](https://cloud.githubusercontent.com/assets/1711674/8742357/87e8b72e-2c32-11e5-997a-c6d081186da5.png)
 
 Full iptables configuration:
-https://gist.github.com/shikendon/5cfd3e1cf2181b884fb87d49e1afa695
+https://github.com/proxene/debian-8/blob/master/iptables
 
 Other notes:
 - [synsanity](https://github.com/github/synsanity) only works on 3.x kernels
