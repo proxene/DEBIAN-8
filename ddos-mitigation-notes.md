@@ -1,4 +1,4 @@
-#### [DDoS protection - Using Netfilter/iptables](https://people.netfilter.org/hawk/presentations/devconf2014/iptables-ddos-mitigation_JesperBrouer.pdf) @ DevConf.cz Feb 2014
+#### [DDoS protection - Using Netfilter/iptables]
 
 - Disable TCP loose mode
 - Disable TCP forwarding
